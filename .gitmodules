@@ -1,0 +1,3 @@
+[submodule "Geo2"]
+	path = Geo2
+	url = https://github.com/G-Okumu/geo-module.git
